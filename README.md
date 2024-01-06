@@ -9,4 +9,4 @@ Very simple example of an options-based binary to oversee the SOTF dedicated ser
 
 1.) Navigate to the [Releases](https://github.com/A-gent/SonsOfTheForest-DedicatedServer-Overseer/releases) page and download <b>either</b> A.) the raw source AHK script itself, B.) the compiled AHK .exe binary, or C.) the 7zip package that includes both. Which you choose is your choice.<br /><br />
 2.) Create a folder that you wish to be the home of the Overseer, its recommended you create a folder for it and put it in a folder of its own.<br /><br />
-3.) If you downloaded just the raw source AHK script itself, then install [Autohotkey v1.1](https://www.autohotkey.com/download/ahk-install.exe). If you just downloaded the compiled .exe, you don't even need Autohotkey installed for this to run.<br />
+3.) If you downloaded just the raw source AHK script itself, then install [Autohotkey v1.1](https://www.autohotkey.com/download/ahk-install.exe).<br />If you just downloaded the compiled .exe, you don't even need Autohotkey installed for this to run.<br />
